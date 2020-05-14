@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lisk-address-converter/static/css/main.c058b2d0.chunk.css",
-    "main.js": "/lisk-address-converter/static/js/main.8db9d77a.chunk.js",
-    "main.js.map": "/lisk-address-converter/static/js/main.8db9d77a.chunk.js.map",
+    "main.js": "/lisk-address-converter/static/js/main.d2995fdf.chunk.js",
+    "main.js.map": "/lisk-address-converter/static/js/main.d2995fdf.chunk.js.map",
     "runtime-main.js": "/lisk-address-converter/static/js/runtime-main.dd05ea80.js",
     "runtime-main.js.map": "/lisk-address-converter/static/js/runtime-main.dd05ea80.js.map",
     "static/js/2.b016ed0a.chunk.js": "/lisk-address-converter/static/js/2.b016ed0a.chunk.js",
     "static/js/2.b016ed0a.chunk.js.map": "/lisk-address-converter/static/js/2.b016ed0a.chunk.js.map",
     "index.html": "/lisk-address-converter/index.html",
-    "precache-manifest.93c096bce6e4bfffff0d5ec11fca9bf5.js": "/lisk-address-converter/precache-manifest.93c096bce6e4bfffff0d5ec11fca9bf5.js",
+    "precache-manifest.dcb78e6ff7010ceba69c55c4ddf677a2.js": "/lisk-address-converter/precache-manifest.dcb78e6ff7010ceba69c55c4ddf677a2.js",
     "service-worker.js": "/lisk-address-converter/service-worker.js",
     "static/css/main.c058b2d0.chunk.css.map": "/lisk-address-converter/static/css/main.c058b2d0.chunk.css.map",
     "static/js/2.b016ed0a.chunk.js.LICENSE.txt": "/lisk-address-converter/static/js/2.b016ed0a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dd05ea80.js",
     "static/js/2.b016ed0a.chunk.js",
     "static/css/main.c058b2d0.chunk.css",
-    "static/js/main.8db9d77a.chunk.js"
+    "static/js/main.d2995fdf.chunk.js"
   ]
 }
