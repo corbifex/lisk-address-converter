@@ -13,8 +13,8 @@ function App() {
         <input onChange={(event) => setPublicKey(event.target.value)} value={publicKey} className="publicKey" placeholder="Past here your Public key" autoComplete={false} />
         <Converter publicKey={publicKey} />
         <div className="Links">
-          <a href="https://explorer.lisk.io">Explorer</a>
-          <a href="https://github.com/LiskHQ/lips/blob/master/proposals/lip-0018.md">Lip 18</a>
+          <a href="https://explorer.lisk.io" target="_blank" rel="noopener noreferrer">Explorer</a>
+          <a href="https://github.com/LiskHQ/lips/blob/master/proposals/lip-0018.md" target="_blank" rel="noopener noreferrer">Lip 18</a>
         </div>
       </header>
     </div>
