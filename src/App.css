@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300");
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  width: 60vw;
+  pointer-events: none;
+}
+
+.publicKey {
+  margin: 1em;
+  width: 75vw;
+  padding: 5px;
+  background: none;
+  border: none;
+  outline: none;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.9em;
+  color: #fff;
+  font-weight: 300;
+  display: block;
+}
+
+.Links {
+  position: absolute;
+  bottom: 1em;
+  color: white;
+}
+
+.Links a {
+  color: white;
+  text-decoration: underline;
+  margin: .5em;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    /*animation: App-logo-spin infinite 20s linear;*/
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: white;
+}
+
+.Result {
+  text-align: left;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
