@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lisk-address-converter/precache-manifest.dcb78e6ff7010ceba69c55c4ddf677a2.js"
+  "/lisk-address-converter/precache-manifest.0344645ca47449c8b79ed68595007eab.js"
 );
 
 self.addEventListener('message', (event) => {
