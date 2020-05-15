@@ -5,7 +5,6 @@ import {convert} from "./utils";
 export const Converter = ({publicKey}) => {
 
   const [result, setConversion] = useState({});
-console.log("converter")
   useEffect(() => {
     if (publicKey) {
       setConversion(convert(publicKey));
